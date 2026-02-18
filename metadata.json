@@ -1,0 +1,7 @@
+{
+  "name": "Mayra - Ultra-Premium AI",
+  "description": "Mayra is an ultra-premium, intelligent, and warm voice AI companion designed for Android. She offers emotional support, daily help, and delightful conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
